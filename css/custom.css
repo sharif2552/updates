@@ -1,6 +1,10 @@
 .breadcrumb-area{
     min-height: 0px;
-    padding-top: 0px;
-    padding-bottom: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.breadcrumb-area h1{
+    color: black;
+    font-weight: 500;
 }
 
